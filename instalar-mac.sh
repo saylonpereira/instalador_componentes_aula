@@ -70,6 +70,7 @@ fi
 # ── Claude Code ───────────────────────────────────────────────────────────────
 step "Instalando Claude Code (npm)"
 if command -v npm &>/dev/null; then
+    npm uninstall -g @anthropic-ai/claude-code 2>/dev/null || true
     npm install -g @anthropic-ai/claude-code
     ok "Claude Code instalado."
 else
