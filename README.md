@@ -25,16 +25,11 @@ Instala automaticamente o ambiente de desenvolvimento completo em uma máquina d
 
 ## macOS
 
-Abra o Terminal e execute:
+Clique duas vezes em **`Instalar.command`**.
 
-```bash
-bash instalar-mac.sh
-```
-
-Se aparecer aviso de permissão:
-
-```bash
-chmod +x instalar-mac.sh && ./instalar-mac.sh
-```
+> Se aparecer aviso de permissão, abra o Terminal e execute:
+> ```bash
+> chmod +x Instalar.command && ./Instalar.command
+> ```
 
 **Requisitos:** macOS 12 (Monterey) ou mais recente
