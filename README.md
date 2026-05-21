@@ -1,6 +1,14 @@
-# Claude Dev Setup
+# Instalador de Componentes
 
-Instala automaticamente Python, Node.js e Claude Code em uma máquina do zero.
+Instala automaticamente o ambiente de desenvolvimento completo em uma máquina do zero.
+
+## O que é instalado
+
+- **Sublime Text 4** — editor de código
+- **Python 3.12** — linguagem de programação
+- **PostgreSQL 17** — banco de dados
+- **Node.js (LTS)** — ambiente de execução JavaScript
+- **Claude Code** — assistente de desenvolvimento com IA
 
 ---
 
